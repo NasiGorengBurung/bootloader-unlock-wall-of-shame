@@ -22,7 +22,7 @@ Over the past few years, a suspicious number of companies have started to "take 
 
 While this may not affect you directly, it sets a bad precedent. You never know what will get the axe next: Shizuku? ADB?<br><br> 
 **They've already gone after [sideloading](https://mashable.com/article/google-android-sideloading-apps-security).**<br><br>
-I thought it might be a good idea to keep track of bad companies and workarounds.
+I thought it might be a good idea to keep track of bad companies and workarounds, but it is pleasing to check here if you really to know workaround while disliking restricted or locked-down bootloader.
 
 If you know of specific details/unlocking methods, please PR them or drop them in the [discussions](https://github.com/melontini/bootloader-unlock-wall-of-shame/discussions)
 
