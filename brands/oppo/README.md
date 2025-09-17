@@ -27,7 +27,7 @@ Since then, they have forced their servers to only return "new struct" keys, whi
 
 ## OPPO
 
-There's not much to say about OPPO. They provide Deep Testing too, but only for Chinese models.
+There's not much to say about OPPO but it's shame for them that they release OPPO N5 Cyanogenmod edition which it's looks appealing to developer, but year later, they start to locking bootloader mode for all devices, that's their first day to betray Dev's trust, on other side... They provide Deep Testing too, but only for Chinese models.
 
 ## Deep Testing
 
