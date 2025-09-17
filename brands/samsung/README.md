@@ -7,6 +7,12 @@ If you have a North American device and were lucky enough not to update for a wh
 
 Until recently, international Samsung devices (e.g. ones sold in Europe or Asia) were unlockable, however, starting with One UI 8, Samsung has [completely nuked][One UI 8 Unlock] the ability to unlock their devices, regardless of model or region. If you are still on One UI 7 or earlier, **DO NOT UPDATE.** Once you update to One UI 8, bootloader unlocking is gone forever, there is no way to rollback to One UI 7.
 
+Their decision regarding erasing BL unlock ability is because R&D laws, where laws stating any radio equipment must've not be tampered or unauthorized flashing.
+
+But EU requirement say they're not against bootloader unlock, "Radio equipment does not harm the network or its functioning nor misuse network resources, thereby causing an unacceptable degradation of service" from source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0030
+
+Even that statement, we're not sure if Samsung coming back to give us unlock ability, or embrace locked-down.
+
 Snapdragon phones prior to the S7/Note7 (2016) can be unlocked regardless of region, as long as it's not locked to a carrier like AT&T or Verizon. The Canadian S7 can also be unlocked as it uses an Exynos SoC, despite Canada normally being a Snapdragon region.
 
 Be aware that unlocking a Samsung device will permanently trip Knox. As a result, many Knox-based features will be broken. This includes, but not limited to: Samsung Pay, Pass, Flow, Health, Secure Folder, Secure Wi-Fi, Smart View. Furthermore, tripping Knox may serve as grounds for voiding your warranty.
