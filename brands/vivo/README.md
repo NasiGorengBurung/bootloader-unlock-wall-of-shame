@@ -2,6 +2,8 @@
 
 - Verdict: **🍅 Terrible!**
 
+When you try to launch fastboot, bootloader mode can welcome you, but there's catch, people reported executing "fastboot flashing unlock" or "fastboot oem unlock" do not work, we can bet Vivo made change for bootloader to not respond that command.
+
 The BBK* family has an unlocking problem. If in case of OPPO/Realme they at least offer an app in some regions, Vivo is locked completely.
 
 Well, that is, if [xdaforums.com][BBK Fastboot] doesn't apply to you.
