@@ -2,9 +2,12 @@
 
 - Verdict: **🍅 Terrible!**
 
-Asus originally allowed you to unlock your bootloader via their website, however in November 2023, the website went down "for maintanence", Asus claimed it would come back, but it never did. 
+Asus originally allowed you to unlock your bootloader via their website, however in November 2023, the website went down "for maintanence", Asus claimed it would come back, but it never did.
 
-Someone eventually found a way to unlock the bootloader on the Zenfone 9, and Asus responded, not by finally bringing the site back, but by [patching the method and introducing anti-rollback][anti-rollback]. 
+Even you have their APK, it won't work because it's looks like they shut down their unlocking server, those APK dependent their servers.
+(Don't mark this lines, because this is assumptaions and info could be half correct.)
+
+Someone eventually found a way to unlock the bootloader on the Zenfone 9, and Asus responded, not by finally bringing the site back, but by [patching the method and introducing anti-rollback][anti-rollback]. That's kind of lame moves though.
 
 Following Asus's false claims of a bootloader unlock eventually coming back, a UK customer sued Asus for a refund of their phone, [and Asus lost][lawsuit]. 
 
