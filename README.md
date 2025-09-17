@@ -161,6 +161,8 @@ It's possible to unlock using testpoints and [PotatoNV](https://github.com/mashe
 If you own a MediaTek device exploitable by [mtkclient](https://github.com/bkerler/mtkclient) you can unlock the bootloader using that.<br/>
 If it also happens to be an OPPO/Realme device and you need to access fastboot: [lkpatcher](https://github.com/R0rt1z2/lkpatcher) ([web version](https://lkpatcher.r0rt1z2.com/))
 
+If your MediaTek device need specific DA, they might throwing out "DAA_SIG_VERIFY_FAILED", where even exact SoC name DA is not enough, but this is case if OTA update made boot ROM or preloader more resist against exploit. In that case, you would need to physically open the device, locate the test-point then short while plugged, and specific preloader are needed.
+
 ### Qualcomm 
 There's no Universal Qualcomm method, unfortunately.
 
